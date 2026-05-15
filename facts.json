@@ -1,0 +1,55 @@
+{
+  "place_id": "ChIJFXaq4QmryYkR5AaCHae7k7A",
+  "name": "Myers Electrical Repairs LLC",
+  "phone": "(717) 334-8105",
+  "phone_digits": "7173348105",
+  "address": "1785 Biglerville Rd, Gettysburg, PA 17325, USA",
+  "rating": "4.6",
+  "review_count": "24",
+  "hours": [
+    "Monday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+    "Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+    "Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+    "Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+    "Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+    "Saturday: Closed",
+    "Sunday: Closed"
+  ],
+  "types": [
+    "car_repair",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "confirmed_services": [
+    "ac heating",
+    "inspection"
+  ],
+  "reviews": [
+    {
+      "stars": 5,
+      "author": "Marzlyn PorBrad",
+      "text": "Myers is the best, always helpful and their mechanics are very knowledgeable and kind. They are the best in everything. I highly recommend them. Their Staff are very attentive too.\n\nFrom: Glenville Ambulance LLC"
+    },
+    {
+      "stars": 5,
+      "author": "Raelyn Kramer",
+      "text": "My father and I have been customers of Myer's for several years, and they have always been nothing but extremely kind, and so incredibly helpful. They have towed and fixed our vehicles at the most affordable prices we have ever found within this area. They are always honest and helpful, one of the few places not out there just to make a buck. I always have, and will continue to recommend them to anyone looking for a timely, truly caring mechanic!"
+    },
+    {
+      "stars": 5,
+      "author": "Sean Van Den Dries",
+      "text": "Our Expedition had an ABS issue that our regular mechanic could not figure out. He sent us to Myers assuring us that they would both find the problem and repair it at a reasonable price. He was right. Our ABS is now fixed and the price was very reasonable. Could not be happier and would absolutely recommend them."
+    }
+  ],
+  "website_check": {
+    "places_api": null,
+    "exa_search": "exa_error: HTTP Error 402: Payment Required",
+    "domain_check": null
+  },
+  "valid_target": true,
+  "website_evidence": [],
+  "email": null,
+  "email_all": [],
+  "email_source": null
+}
